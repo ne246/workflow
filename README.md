@@ -1,7 +1,12 @@
 workflow v1
+
 Personalized Work scheduler to keep me organized and have a routine. I spent one week working on this project but I am still working on improving it. 
+
 Key Features: It uses OpenWeatherMap API to get current weather and Twilio to send messages to my phone to remind me of certain things. 
-This is very useful to me and makes my life a little more easier, especially with my packed school schedule. I'm hoping in the future I will be able to update this and release a v2.
+
+This is very useful to me and makes my life a little more easier, especially with my packed school schedule. I'm hoping in the future I will be able to update this and release a v2. 
+
+Note: I'm still a beginner coder and learning to improve my skills
 
 ![Screenshot 2025-01-23 120700](https://github.com/user-attachments/assets/08e83aad-a0d7-49b2-a399-e3312d4e0639)
 
