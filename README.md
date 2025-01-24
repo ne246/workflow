@@ -7,8 +7,6 @@ Key Features: Gives you the ability to add, remove, and edit tasks throughout th
 
 This is very useful to me and makes my life a little more easier, especially with my packed school schedule. I'm hoping in the future I will be able to update this and release a v2. 
 
-Note: I'm still a beginner coder and learning to improve my skills
-
 Week Tab:
 
 ![Screenshot 2025-01-23 120700](https://github.com/user-attachments/assets/08e83aad-a0d7-49b2-a399-e3312d4e0639)
